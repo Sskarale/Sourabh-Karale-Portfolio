@@ -17,7 +17,7 @@ const Home = () => {
 
             {/* Main content */}
             <h1 className="text-4xl md:text-6xl font-bold">
-                Hi There, I'm <span className="text-orange-500">Sourabh</span>
+                Hi There, I'm <span className="text-orange-500">Sourabh Karale</span>
             </h1>
             <h2 className="text-lg md:text-2xl mt-4">
             <strong>I Am into</strong> <span> </span>
@@ -28,7 +28,7 @@ const Home = () => {
               1000,
               'Backend Developer',
               1000,
-              'MERN Fullstack',
+              'MERN Full Stack',
               1000,
             ]}
             wrapper="span"

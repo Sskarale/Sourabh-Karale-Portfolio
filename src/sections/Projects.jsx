@@ -8,6 +8,7 @@ const Projects = () => {
         <div className="bg-white rounded-lg shadow-md p-6">
           <h3 className="text-xl font-semibold mb-2">Web Page Builder using Django</h3>
           <p>Developed a platform that enables small businesses to create and customize websites without coding. Used Django for backend and dynamic content generation.</p>
+          <a href="https://github.com/Sskarale/Automatic_webpage_builder" target='_blank'>LINK: Automatic_webpage_builder</a>
         </div>
         <div className="bg-white rounded-lg shadow-md p-6">
           <h3 className="text-xl font-semibold mb-2">Air Canvas - Drawing with Finger Gestures</h3>
